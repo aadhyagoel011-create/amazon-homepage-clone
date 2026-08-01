@@ -35,7 +35,7 @@ Through this project, I improved my understanding of:
 
 ## Preview
 
-(Add screenshots here)
+![Amazon Homepage Clone](amazon-homepage.png)
 
 ## Author
 
