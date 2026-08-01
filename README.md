@@ -2,6 +2,9 @@
 
 A responsive front-end clone of the Amazon homepage built using **HTML** and **CSS** as part of my web development learning journey.
 
+🌐 **Live Demo:** https://aadhyagoel011-create.github.io/amazon-homepage-clone/
+
+
 ## Features
 
 * Responsive navigation bar
